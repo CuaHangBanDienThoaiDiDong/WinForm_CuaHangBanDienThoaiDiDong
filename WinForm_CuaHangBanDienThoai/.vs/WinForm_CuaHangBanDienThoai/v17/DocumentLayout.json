@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CuaHangDienThoaiDiDong\\Winform\\WinForm_CuaHangBanDienThoai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF0C0C6-B839-46E3-99D0-2C7E4509C2D6}|WinForm_CuaHangBanDienThoai\\WinForm_CuaHangBanDienThoai.csproj|e:\\cuahangdienthoaididong\\winform\\winform_cuahangbandienthoai\\winform_cuahangbandienthoai\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BF0C0C6-B839-46E3-99D0-2C7E4509C2D6}|WinForm_CuaHangBanDienThoai\\WinForm_CuaHangBanDienThoai.csproj|solutionrelative:winform_cuahangbandienthoai\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF0C0C6-B839-46E3-99D0-2C7E4509C2D6}|WinForm_CuaHangBanDienThoai\\WinForm_CuaHangBanDienThoai.csproj|e:\\cuahangdienthoaididong\\winform\\winform_cuahangbandienthoai\\winform_cuahangbandienthoai\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BF0C0C6-B839-46E3-99D0-2C7E4509C2D6}|WinForm_CuaHangBanDienThoai\\WinForm_CuaHangBanDienThoai.csproj|solutionrelative:winform_cuahangbandienthoai\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF0C0C6-B839-46E3-99D0-2C7E4509C2D6}|WinForm_CuaHangBanDienThoai\\WinForm_CuaHangBanDienThoai.csproj|e:\\cuahangdienthoaididong\\winform\\winform_cuahangbandienthoai\\winform_cuahangbandienthoai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BF0C0C6-B839-46E3-99D0-2C7E4509C2D6}|WinForm_CuaHangBanDienThoai\\WinForm_CuaHangBanDienThoai.csproj|solutionrelative:winform_cuahangbandienthoai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC1BE0E-78EF-43BA-B21C-7F377FE8386E}|BLL\\BLL.csproj|e:\\cuahangdienthoaididong\\winform\\winform_cuahangbandienthoai\\bll\\cuahangdienthoai.dbml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7EC1BE0E-78EF-43BA-B21C-7F377FE8386E}|BLL\\BLL.csproj|solutionrelative:bll\\cuahangdienthoai.dbml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F93EEA-E720-4E50-BEA9-2214B9DB15D9}|DTO\\DTO.csproj|e:\\cuahangdienthoaididong\\winform\\winform_cuahangbandienthoai\\dto\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F93EEA-E720-4E50-BEA9-2214B9DB15D9}|DTO\\DTO.csproj|solutionrelative:dto\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "E:\\CuaHangDienThoaiDiDong\\Winform\\WinForm_CuaHangBanDienThoai\\WinForm_CuaHangBanDienThoai\\frmMain.cs",
+              "RelativeDocumentMoniker": "WinForm_CuaHangBanDienThoai\\frmMain.cs",
+              "ToolTip": "E:\\CuaHangDienThoaiDiDong\\Winform\\WinForm_CuaHangBanDienThoai\\WinForm_CuaHangBanDienThoai\\frmMain.cs [Design]",
+              "RelativeToolTip": "WinForm_CuaHangBanDienThoai\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:48:55.571Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "E:\\CuaHangDienThoaiDiDong\\Winform\\WinForm_CuaHangBanDienThoai\\WinForm_CuaHangBanDienThoai\\frmLogin.cs",
+              "RelativeDocumentMoniker": "WinForm_CuaHangBanDienThoai\\frmLogin.cs",
+              "ToolTip": "E:\\CuaHangDienThoaiDiDong\\Winform\\WinForm_CuaHangBanDienThoai\\WinForm_CuaHangBanDienThoai\\frmLogin.cs [Design]",
+              "RelativeToolTip": "WinForm_CuaHangBanDienThoai\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:48:49.271Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\CuaHangDienThoaiDiDong\\Winform\\WinForm_CuaHangBanDienThoai\\WinForm_CuaHangBanDienThoai\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForm_CuaHangBanDienThoai\\Form1.cs",
+              "ToolTip": "E:\\CuaHangDienThoaiDiDong\\Winform\\WinForm_CuaHangBanDienThoai\\WinForm_CuaHangBanDienThoai\\Form1.cs [Design]",
+              "RelativeToolTip": "WinForm_CuaHangBanDienThoai\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:48:48.058Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CUAHANGDIENTHOAI.dbml",
+              "DocumentMoniker": "E:\\CuaHangDienThoaiDiDong\\Winform\\WinForm_CuaHangBanDienThoai\\BLL\\CUAHANGDIENTHOAI.dbml",
+              "RelativeDocumentMoniker": "BLL\\CUAHANGDIENTHOAI.dbml",
+              "ToolTip": "E:\\CuaHangDienThoaiDiDong\\Winform\\WinForm_CuaHangBanDienThoai\\BLL\\CUAHANGDIENTHOAI.dbml",
+              "RelativeToolTip": "BLL\\CUAHANGDIENTHOAI.dbml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-12T08:46:37.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrandDTO.cs",
+              "DocumentMoniker": "E:\\CuaHangDienThoaiDiDong\\Winform\\WinForm_CuaHangBanDienThoai\\DTO\\BrandDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\BrandDTO.cs",
+              "ToolTip": "E:\\CuaHangDienThoaiDiDong\\Winform\\WinForm_CuaHangBanDienThoai\\DTO\\BrandDTO.cs",
+              "RelativeToolTip": "DTO\\BrandDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:46:32.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
