@@ -24,13 +24,13 @@ namespace BLL
                         select new ProductDTO
                         {
 
-                            TenSanPham = sp.Title,
-                            CongNghePin = sp.CongNghePin,
-                            Sim = sp.Sim,
-                            CongKetNoi = sp.CongKetNoi,
-                            HeDieuHanh = sp.HeDieuHanh,
-                            TenDanhMuc = sp.tb_ProductCategory.Title,
-                            TenThuongHieu = sp.tb_ProductCompany.Title,
+                            //TenSanPham = sp.Title,
+                            //CongNghePin = sp.CongNghePin,
+                            //Sim = sp.Sim,
+                            //CongKetNoi = sp.CongKetNoi,
+                            //HeDieuHanh = sp.HeDieuHanh,
+                            //TenDanhMuc = sp.tb_ProductCategory.Title,
+                            //TenThuongHieu = sp.tb_ProductCompany.Title,
                         };
             return query.ToList();
         }
@@ -44,13 +44,13 @@ namespace BLL
                         select new ProductDTO
                         {
 
-                            TenSanPham = sp.Title,
-                            CongNghePin = sp.CongNghePin,
-                            Sim = sp.Sim,
-                            CongKetNoi = sp.CongKetNoi,
-                            HeDieuHanh = sp.HeDieuHanh,
-                            TenDanhMuc = sp.tb_ProductCategory.Title,
-                            TenThuongHieu = sp.tb_ProductCompany.Title,
+                            //TenSanPham = sp.Title,
+                            //CongNghePin = sp.CongNghePin,
+                            //Sim = sp.Sim,
+                            //CongKetNoi = sp.CongKetNoi,
+                            //HeDieuHanh = sp.HeDieuHanh,
+                            //TenDanhMuc = sp.tb_ProductCategory.Title,
+                            //TenThuongHieu = sp.tb_ProductCompany.Title,
                         };
             return query.ToList();
 
@@ -65,13 +65,13 @@ namespace BLL
                         select new ProductDTO
                         {
 
-                            TenSanPham = sp.Title,
-                            CongNghePin = sp.CongNghePin,
-                            Sim = sp.Sim,
-                            CongKetNoi = sp.CongKetNoi,
-                            HeDieuHanh = sp.HeDieuHanh,
-                            TenDanhMuc = sp.tb_ProductCategory.Title,
-                            TenThuongHieu = sp.tb_ProductCompany.Title,
+                            //TenSanPham = sp.Title,
+                            //CongNghePin = sp.CongNghePin,
+                            //Sim = sp.Sim,
+                            //CongKetNoi = sp.CongKetNoi,
+                            //HeDieuHanh = sp.HeDieuHanh,
+                            //TenDanhMuc = sp.tb_ProductCategory.Title,
+                            //TenThuongHieu = sp.tb_ProductCompany.Title,
                         };
             return query.ToList();
 

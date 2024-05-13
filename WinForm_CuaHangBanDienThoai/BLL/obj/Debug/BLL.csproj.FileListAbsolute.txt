@@ -18,13 +18,3 @@ D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\BLL\obj\Debug\BLL.csproj
 D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\BLL\obj\Debug\BLL.csproj.CopyComplete
 D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\BLL\obj\Debug\BLL.dll
 D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\BLL\obj\Debug\BLL.pdb
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\BLL\bin\Debug\BLL.dll.config
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\BLL\bin\Debug\BLL.dll
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\BLL\bin\Debug\BLL.pdb
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\BLL\bin\Debug\DTO.dll
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\BLL\bin\Debug\DTO.pdb
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\BLL\obj\Debug\BLL.csproj.Up2Date
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\BLL\obj\Debug\BLL.dll
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\BLL\obj\Debug\BLL.pdb

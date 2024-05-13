@@ -8,14 +8,16 @@ namespace DTO
 {
     public class StaffDTO
     {
-        private string StaffId { get; set; }
-        private string MaNhanVien { get; set; }
-        private string TenNV { get; set; }
-        private string Pass { get; set; }
-        private string SDT { get; set; }
+        public string MaNhanVien { get; set; }
+       
+        public string TenNV { get; set; }
         public DateTime NgaySinh { get; set; }
-        private string Email { get; set; }
-        private string CCCD { get; set; }
+        public string GioiTinh { get; set; }
+        public string Email { get; set; }
+        public string SDT { get; set; }
+        public string DiaChi { get; set; }
+        
+        
 
     }
 }

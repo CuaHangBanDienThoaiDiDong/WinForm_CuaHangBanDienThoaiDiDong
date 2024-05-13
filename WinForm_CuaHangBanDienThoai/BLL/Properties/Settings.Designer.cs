@@ -33,5 +33,27 @@ namespace BLL.Properties {
                 return ((string)(this["CUAHANGDIENTHOAIConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=MSI\\SQLEXPRESS;Initial Catalog=CUAHANGDIENTHOAI;Persist Security Info" +
+            "=True;User ID=sa;Password=123")]
+        public string CUAHANGDIENTHOAIConnectionString1 {
+            get {
+                return ((string)(this["CUAHANGDIENTHOAIConnectionString1"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=MSI\\SQLEXPRESS;Initial Catalog=CUAHANGDIENTHOAI;User ID=SA;Password=1" +
+            "23")]
+        public string CUAHANGDIENTHOAIConnectionString2 {
+            get {
+                return ((string)(this["CUAHANGDIENTHOAIConnectionString2"]));
+            }
+        }
     }
 }

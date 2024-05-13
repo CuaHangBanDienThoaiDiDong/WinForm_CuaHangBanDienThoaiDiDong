@@ -6,11 +6,3 @@ D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\AddControl\obj\Debug\Add
 D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\AddControl\obj\Debug\AddControl.csproj.CoreCompileInputs.cache
 D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\AddControl\obj\Debug\AddControl.dll
 D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\AddControl\obj\Debug\AddControl.pdb
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\AddControl\bin\Debug\AddControl.dll
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\AddControl\bin\Debug\AddControl.pdb
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\AddControl\obj\Debug\AddControl.csproj.AssemblyReference.cache
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\AddControl\obj\Debug\AddControl.CustomLabel.resources
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\AddControl\obj\Debug\AddControl.csproj.GenerateResource.cache
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\AddControl\obj\Debug\AddControl.csproj.CoreCompileInputs.cache
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\AddControl\obj\Debug\AddControl.dll
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\AddControl\obj\Debug\AddControl.pdb

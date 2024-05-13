@@ -11,12 +11,17 @@ namespace WinForm_CuaHangBanDienThoai
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// 
+        public static frmLogin loginForm = null;
+        public static frmMain mainForm = null;
+        public static frmStaffs staffsForm = null;
+        public static frmCategories categoriesForm = null;
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMain());
+            Application.Run(new frmLogin ());
         }
     }
 }

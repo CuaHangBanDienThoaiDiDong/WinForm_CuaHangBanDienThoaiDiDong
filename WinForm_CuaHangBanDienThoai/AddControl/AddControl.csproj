@@ -56,6 +56,12 @@
       <DependentUpon>CustomLabel.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Textboxonlynumber.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Textboxonlynumber.Designer.cs">
+      <DependentUpon>Textboxonlynumber.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="CustomLabel.resx">

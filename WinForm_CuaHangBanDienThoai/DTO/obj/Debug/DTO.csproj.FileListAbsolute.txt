@@ -10,9 +10,3 @@ D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\DTO\obj\Debug\DTO.csproj
 D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\DTO\obj\Debug\DTO.dll
 D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\DTO\obj\Debug\DTO.pdb
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\DTO\bin\Debug\DTO.dll
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\DTO\bin\Debug\DTO.pdb
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\DTO\obj\Debug\DTO.dll
-E:\CuaHangDienThoaiDiDong\Winform\WinForm_CuaHangBanDienThoai\DTO\obj\Debug\DTO.pdb
