@@ -1,8 +1,0 @@
-D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\AddControl\bin\Debug\AddControl.dll
-D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\AddControl\bin\Debug\AddControl.pdb
-D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\AddControl\obj\Debug\AddControl.csproj.AssemblyReference.cache
-D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\AddControl\obj\Debug\AddControl.CustomLabel.resources
-D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\AddControl\obj\Debug\AddControl.csproj.GenerateResource.cache
-D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\AddControl\obj\Debug\AddControl.csproj.CoreCompileInputs.cache
-D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\AddControl\obj\Debug\AddControl.dll
-D:\cuahangdienthoai\WinFrom\WinForm_CuaHangBanDienThoai\AddControl\obj\Debug\AddControl.pdb
